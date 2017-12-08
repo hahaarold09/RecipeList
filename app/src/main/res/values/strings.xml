@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleRecipe</string>
+    <string name="text_sandwich">asd</string>
+    <string name="text_sandwich_ingredients">asdsad</string>
+    <string name="recipe1"><![CDATA[Baked chilli & jacket potatoes]]></string>
+    <string name="recipe2">Pizza baked potato</string>
+</resources>
